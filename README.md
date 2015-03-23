@@ -19,7 +19,7 @@ List app that synchronizes data between Watch app and containing iPhone app (Obj
 ---
 ![Bitcoin Tracker](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Bitcoin.png)
 
-App to fetch bitcoin prices a server and displaying on the Watch (Swift)
+App to fetch bitcoin prices from a server and displaying on the Watch (Swift)
 
 4. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
