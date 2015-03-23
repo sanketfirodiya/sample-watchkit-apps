@@ -1,5 +1,6 @@
 # Sample WatchKit Apps & Tutorials
 A curated list of awesome WatchKit tutorials.
+Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/sample-watchkit-apps/pulls)
 
 1. [Calculator](http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/) 
 ---
@@ -37,4 +38,4 @@ This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/op
 
 
 ## Contact
-You should follow me on twitter for more awesome stuff - [@SanketFirodiya](twitter.com/sanketfirodiya)
+For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
