@@ -19,19 +19,23 @@ List app that synchronizes data between Watch app and containing iPhone app (Obj
 ---
 ![Bitcoin Tracker](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Bitcoin.png)
 
-App to fetch bitcoin prices from a server and displaying on the Watch (Swift)
+4. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/)
+---
+![Guess Game](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Guess_Game.png)
 
-4. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
+Simple game to learn how to use different UI elements on Watch (Swift)
+
+5. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
 Excellent collection of WatchKit FAQs
 
-5. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
+6. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
-Quick, easy-to-digest advice on all aspects of Apple Watch app design and development in less than 5 minutes.
+Quick, easy-to-digest advice on all aspects of Apple Watch app design & development in < 5 minutes.
 
 
 ## Acknowledgment
