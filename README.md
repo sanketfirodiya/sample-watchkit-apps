@@ -33,13 +33,19 @@ Simple game to learn how to use different UI elements on Watch (Swift)
 
 Queries user location, retrieves weather data from an api and displays on the Watch (Swift)
 
-6. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
+6. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
+---
+![Radial Bar Chart Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Radial.png)
+
+Generates radial bar images for your Watch apps
+
+7. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
 Excellent collection of WatchKit FAQs
 
-7. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
+8. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
