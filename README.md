@@ -51,11 +51,8 @@ Excellent collection of WatchKit FAQs
 
 Quick, easy-to-digest advice on all aspects of Apple Watch app design & development in < 5 minutes.
 
-
-
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
-
 
 ## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
