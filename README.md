@@ -31,21 +31,25 @@ Simple game to learn how to use different UI elements on Watch (Swift)
 ---
 ![Weather](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Weather.png)
 
-Queries user location, retrieves weather data from an api and displays on the Watch (Swift)
+6. [Shared Core Data](http://www.makeandbuild.com/blog/post/watchkit-with-shared-core-data)
+---
+![Shared Core Data](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/SharedCoreData.png)
 
-6. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
+To-Do list type app that uses shared core data storage between WatchKit and iPhone app
+
+7. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
 ---
 ![Radial Bar Chart Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Radial.png)
 
 Generates radial bar images for your Watch apps
 
-7. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
+8. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
 Excellent collection of WatchKit FAQs
 
-8. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
+9. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
