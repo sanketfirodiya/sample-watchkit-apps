@@ -31,11 +31,13 @@ Simple game to learn how to use different UI elements on Watch (Swift)
 ---
 ![Weather](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Weather.png)
 
+Queries user location, retrieves weather data from an api and displays on the Watch (Swift)
+
 6. [Shared Core Data](http://www.makeandbuild.com/blog/post/watchkit-with-shared-core-data)
 ---
 ![Shared Core Data](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/SharedCoreData.png)
 
-To-Do list type app that uses shared core data storage between WatchKit and iPhone app
+To-Do list type app that uses shared core data storage between WatchKit and iPhone app (Swift)
 
 7. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
 ---
