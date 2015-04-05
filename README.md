@@ -39,25 +39,31 @@ Queries user location, retrieves weather data from an api and displays on the Wa
 
 To-Do list type app that uses shared core data storage between WatchKit and iPhone app (Swift)
 
-7. [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable)
+7. [WatchPic](https://github.com/D-32/WatchPics)
+---
+![WatchPic](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchPic.png)
+
+Instagram for Apple Watch (Objective-C)
+
+8. [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable)
 ---
 ![IGInterfaceDataTable](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/IGInterfaceDataTable.png)
 
 IGInterfaceDataTable is a category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier
 
-8. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
+9. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
 ---
 ![Radial Bar Chart Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Radial.png)
 
 Generates radial bar images for your Watch apps
 
-9. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
+10. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
 Excellent collection of WatchKit FAQs
 
-10. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
+11. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
