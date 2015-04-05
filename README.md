@@ -43,31 +43,43 @@ To-Do list type app that uses shared core data storage between WatchKit and iPho
 ---
 ![WatchPic](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchPic.png)
 
-Instagram for Apple Watch (Objective-C)
+Instagram for  Watch (Objective-C)
 
-8. [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable)
+8. [Watch Ring Generator](https://github.com/radianttap/WatchRingGenerator)
+---
+![Watch Ring Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/RingGenerator.png)
+
+iOS app to generate series of PNG images, to be used in WatchKit apps (Objective-C)
+
+9. [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations)
+---
+![KFWatchKitAnimations](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/KFWatchKitAnimations.png)
+
+KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator (Swift)
+
+10. [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable)
 ---
 ![IGInterfaceDataTable](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/IGInterfaceDataTable.png)
 
 IGInterfaceDataTable is a category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier
 
-9. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
+11. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
 ---
 ![Radial Bar Chart Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Radial.png)
 
 Generates radial bar images for your Watch apps
 
-10. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
+12. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
 Excellent collection of WatchKit FAQs
 
-11. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
+13. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
-Quick, easy-to-digest advice on all aspects of Apple Watch app design & development in < 5 minutes.
+Quick, easy-to-digest advice on all aspects of  Watch app design & development in < 5 minutes.
 
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
