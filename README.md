@@ -15,19 +15,19 @@ Tutorial for building an awesome calculator from scratch (Swift)
 
 List app that synchronizes data between Watch app and containing iPhone app (Objective-C)
 
-3. [Cherry](https://github.com/kenshin03/Cherry)
+3. [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
+---
+![Bitcoin Tracker](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Bitcoin.png)
+
+Bitcoin price tracking app
+
+4. [Cherry](https://github.com/kenshin03/Cherry)
 ---
 ![Cherry](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Cherry.png)
 
 Mini Pomodoro Timer app designed for the  Watch. Written in Swift.
 
-4. [Guess Game](https://github.com/kenshin03/Cherry)
----
-![Guess Game](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Guess_Game.png)
-
-Simple game to learn how to use different UI elements on Watch (Swift)
-
-5. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/)
+5. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/) (Swift)
 ---
 ![Guess Game](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Guess_Game.png)
 
