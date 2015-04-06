@@ -25,9 +25,9 @@ Bitcoin price tracking app
 ---
 ![Cherry](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Cherry.png)
 
-Mini Pomodoro Timer app designed for the  Watch. Written in Swift.
+Mini Pomodoro Timer app designed for the  Watch. (Swift)
 
-5. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/) (Swift)
+5. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/) 
 ---
 ![Guess Game](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Guess_Game.png)
 
