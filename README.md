@@ -87,6 +87,12 @@ Excellent collection of WatchKit FAQs
 
 Quick, easy-to-digest advice on all aspects of  Watch app design & development in < 5 minutes.
 
+15. [WWDC Parties](https://github.com/sugarso/WWDC)
+---
+![WWDC Parties](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WWDCParties.png)
+
+Parties for WWDC is an aggregator of developers parties happening in San Francisco mostly exclusively for participators of WWDC 2015.
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
