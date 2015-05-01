@@ -91,7 +91,11 @@ Quick, easy-to-digest advice on all aspects of  Watch app design & developmen
 ---
 ![WWDC Parties](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WWDCParties.png)
 
-Parties for WWDC is an aggregator of developers parties happening in San Francisco mostly exclusively for participators of WWDC 2015.
+16. [Stock tracker](http://www.appdesignvault.com/apple-watch-tutorial-watchkit-xcode/)
+---
+![WWDC Parties](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Stocks.png)
+
+Page-Based navigation style to show the user two stock quotes (Swift).
 
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
