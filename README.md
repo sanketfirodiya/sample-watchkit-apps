@@ -1,4 +1,4 @@
-# Awesome list of WatchKit sample apps, tutorials and resources
+# Awesome WatchKit sample apps & tutorials
 A curated list of the best, in-depth WatchKit tutorials that explain key concepts and provide sample code.
 
 Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/sample-watchkit-apps/pulls)
