@@ -13,94 +13,128 @@ Tutorial for building an awesome calculator from scratch (Swift).
 
 2. [Lister](http://daniellam.me/blog/ios-watchkit-first-look/)
 ---
+List app that synchronizes data between Watch app and containing iPhone app (Objective-C).
+<br/><br/>
 ![Lister](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
 
-List app that synchronizes data between Watch app and containing iPhone app (Objective-C)
+<br/>
 
 3. [Bitcoin Tracker](http://www.raywenderlich.com/89562/watchkit-tutorial-with-swift-getting-started)
 ---
+Bitcoin price tracking app.
+<br/><br/>
 ![Bitcoin Tracker](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Bitcoin.png)
 
-Bitcoin price tracking app
+<br/>
 
 4. [Cherry](https://github.com/kenshin03/Cherry)
 ---
+Mini Pomodoro Timer app designed for the  Watch (Swift).
+<br/><br/>
 ![Cherry](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Cherry.png)
 
-Mini Pomodoro Timer app designed for the  Watch. (Swift)
+<br/>
 
 5. [Guess Game](http://www.appcoda.com/watchkit-introduction-tutorial/) 
 ---
+Simple game to learn how to use different UI elements on Watch (Swift).
+<br/><br/>
 ![Guess Game](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Guess_Game.png)
 
-Simple game to learn how to use different UI elements on Watch (Swift)
+<br/>
 
 6. [Weather](http://connectthink.com/developers-corner/creating-a-watchkit-app-using-swift-part-one/)
 ---
+Queries user location, retrieves weather data from an api and displays on the Watch (Swift).
+<br/><br/>
 ![Weather](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Weather.png)
 
-Queries user location, retrieves weather data from an api and displays on the Watch (Swift)
+<br/>
 
 7. [Shared Core Data](http://www.makeandbuild.com/blog/post/watchkit-with-shared-core-data)
 ---
+To-Do list type app that uses shared core data storage between WatchKit and iPhone app (Swift).
+<br/><br/>
 ![Shared Core Data](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/SharedCoreData.png)
 
-To-Do list type app that uses shared core data storage between WatchKit and iPhone app (Swift)
+<br/>
 
 8. [WatchPic](https://github.com/D-32/WatchPics)
 ---
+Instagram for  Watch (Objective-C).
+<br/><br/>
 ![WatchPic](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchPic.png)
 
-Instagram for  Watch (Objective-C)
+<br/>
 
 9. [Watch Ring Generator](https://github.com/radianttap/WatchRingGenerator)
 ---
+iOS app to generate series of PNG images, to be used in WatchKit apps (Objective-C).
+<br/><br/>
 ![Watch Ring Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/RingGenerator.png)
 
-iOS app to generate series of PNG images, to be used in WatchKit apps (Objective-C)
+<br/>
 
 10. [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations)
 ---
+KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator (Swift).
+<br/><br/>
 ![KFWatchKitAnimations](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/KFWatchKitAnimations.png)
 
-KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator (Swift)
+<br/>
 
 11. [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable)
 ---
+IGInterfaceDataTable is a category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
+<br/><br/>
 ![IGInterfaceDataTable](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/IGInterfaceDataTable.png)
 
-IGInterfaceDataTable is a category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier
+<br/>
 
 12. [Radial Bar Chart Generator](http://hmaidasani.github.io/RadialChartImageGenerator/)
 ---
+Generates radial bar images for your Watch apps.
+<br/><br/>
 ![Radial Bar Chart Generator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Radial.png)
 
-Generates radial bar images for your Watch apps
+<br/>
 
 13. [WatchKit FAQ](http://www.raywenderlich.com/94672/watchkit-faq)
 ---
+Excellent collection of WatchKit FAQs.
+<br/><br/>
 ![WatchKit FAQ](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_FAQ.jpg)
 
-Excellent collection of WatchKit FAQs
+<br/>
 
 14. [Five Minute WatchKit](http://www.fiveminutewatchkit.com/)
 ---
+Quick, easy-to-digest advice on all aspects of  Watch app design & development in < 5 minutes.
+<br/><br/>
 ![Five Minute WatchKit](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FiveMinuteWatchKit.png)
 
-Quick, easy-to-digest advice on all aspects of  Watch app design & development in < 5 minutes.
+<br/>
 
 15. [WWDC Parties](https://github.com/sugarso/WWDC)
 ---
+Aggregator of developers parties happening in San Francisco. View the parties on map, register and mark parties you’re going to take part in (Objective-C + Swift).
+<br/><br/>
 ![WWDC Parties](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WWDCParties.png)
+
+<br/>
 
 16. [Stock tracker](http://www.appdesignvault.com/apple-watch-tutorial-watchkit-xcode/)
 ---
-![WWDC Parties](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Stocks.png)
-
 Page-Based navigation style to show the user two stock quotes (Swift).
+<br/><br/>
+![Stock tracker](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Stocks.png)
+
+<br/>
 
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
+
+<br/>
 
 ## Contact
 For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
