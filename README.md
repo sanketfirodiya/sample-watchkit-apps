@@ -5,9 +5,11 @@ Feel free to contribute - [pull requests](https://github.com/sanketfirodiya/samp
 
 1. [Calculator](http://www.noodlewerk.com/blog/calculator-apple-watch-tutorial/) 
 ---
+Tutorial for building an awesome calculator from scratch (Swift).
+<br/><br/>
 ![Calculator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Calculator.png)
 
-Tutorial for building an awesome calculator from scratch (Swift)
+<br/>
 
 2. [Lister](http://daniellam.me/blog/ios-watchkit-first-look/)
 ---
