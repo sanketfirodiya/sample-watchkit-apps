@@ -147,6 +147,14 @@ Sample implementation of Maps API on the Watch.
 
 <br/>
 
+19. [Location-aware weather app](http://dev.iachieved.it/iachievedit/building-a-apple-watch-for-location-aware-weather/)
+---
+A basic weather app that provides a brief look at the weather in your current location.
+<br/><br/>
+![Location-aware weather app](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Location.png)
+
+<br/>
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
