@@ -131,6 +131,14 @@ Page-Based navigation style to show the user two stock quotes (Swift).
 
 <br/>
 
+17. [Frame rate tutorial](http://www.happy.watch/blog/2014/12/26/watchkit-animation-frame-rate-tutorial)
+---
+How to animate in WatchKit apps using numbered images. Learn right from how to create the images in Photoshop to using them in Xcode.
+<br/><br/>
+![Frame rate tutorial](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/FrameRate.gif)
+
+<br/>
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
