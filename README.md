@@ -139,6 +139,14 @@ How to animate in WatchKit apps using numbered images. Learn right from how to c
 
 <br/>
 
+18. [Maps on Apple Watch](http://www.kristinathai.com/watchkit-tutorial-maps-on-the-apple-watch/)
+---
+Sample implementation of Maps API on the Watch.
+<br/><br/>
+![Maps on Apple Watch](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Maps.png)
+
+<br/>
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
