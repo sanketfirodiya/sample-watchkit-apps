@@ -159,7 +159,7 @@ A basic weather app that provides a brief look at the weather in your current lo
 ---
 A collection of animated PNG sequences for use as loading indicators in your Apple Watch app.
 <br/><br/>
-![Starburst](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Starburst.png)
+![Starburst](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Starburst.gif)
 
 <br/>
 
