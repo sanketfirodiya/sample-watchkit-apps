@@ -155,6 +155,20 @@ A basic weather app that provides a brief look at the weather in your current lo
 
 <br/>
 
+20. [Starburst](https://github.com/mobitar/Starburst)
+---
+A collection of animated PNG sequences for use as loading indicators in your Apple Watch app.
+<br/><br/>
+![Starburst](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Starburst.png)
+
+<br/>
+
+21. [TDWatchInterfaceMenu](https://github.com/YuAo/TDWatchInterfaceMenu)
+---
+TDWatchInterfaceMenu provides a way to add a menu item with a block as the action handler.
+
+<br/>
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
