@@ -167,6 +167,12 @@ A collection of animated PNG sequences for use as loading indicators in your App
 ---
 TDWatchInterfaceMenu provides a way to add a menu item with a block as the action handler.
 
+22. [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator)
+---
+An easy way to generate activity indicator images for Apple Watch.
+<br/><br/>
+![JBWatchActivityIndicator](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/JBWatchActivityIndicator.gif)
+
 <br/>
 
 ## Acknowledgment
