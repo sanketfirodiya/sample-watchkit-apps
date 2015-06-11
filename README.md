@@ -175,6 +175,14 @@ An easy way to generate activity indicator images for Apple Watch.
 
 <br/>
 
+23. [WatchKit Development Tips](http://developer.telerik.com/featured/tips-for-apple-watch-development-with-xcode-watchkit/)
+---
+Tips for Apple Watch Development with Xcode & WatchKit.
+<br/><br/>
+![WatchKit Development Tips](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_Tips.jpg)
+
+<br/>
+
 ## Acknowledgment
 This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) and [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps).
 
