@@ -181,10 +181,10 @@ Tips for Apple Watch Development with Xcode & WatchKit.
 <br/><br/>
 ![WatchKit Development Tips](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/WatchKit_Tips.jpg)
 
-<br/>
+<br/><br/>
 
 ## More awesome lists for iOS devs
-- https://github.com/sanketfirodiya/iOS-learning-resources
+- <a href="https://github.com/sanketfirodiya/iOS-learning-resources" target="_blank">https://github.com/sanketfirodiya/iOS-learning-resources</a>
 - https://github.com/dkhamsing/open-source-ios-apps
 - https://github.com/kostiakoval/WatchKit-Apps
 
